@@ -1,4 +1,3 @@
-lalalori
-========
+# lalalori
 
 A simple CLI
