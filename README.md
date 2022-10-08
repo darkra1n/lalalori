@@ -1,1 +1,4 @@
+lalalori
+========
 
+A simple CLI
